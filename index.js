@@ -18,8 +18,8 @@ const users = [
     {id:2, name: 'karim khan', email:'karim@gmail.com', phone: '01814002131'},
     {id:3, name: 'mahaub khan', email:'mahabub@gmail.com', phone: '01614002131'},
     {id:4, name: 'mona khan', email:'mahia@gmail.com', phone: '01554002131'},
-    {id:5, name: 'mahiya khan', email:'mahia@gmail.com', phone: '01554002131'},
-	{id:7, name: 'mahiya khan', email:'mahia@gmail.com', phone: '01554002151'},
+    {id:5, name: 'mahiya khan', email:'mahia34@gmail.com', phone: '01554002131'},
+	  {id:6, name: 'morium khan', email:'mahia35@gmail.com', phone: '01554002151'},
 ]
 
 app.get('/users', (req, res) =>{
